@@ -3,6 +3,11 @@
 **************************************
 [(https://bsmith675.github.io/Note-Taker/)](http://localhost:3001/notes)
 **************************************
+Instructions:
+1. Make sure to do npm install
+ -Have Homebrew and heruku 
+3. Use command npm start or node server
+**************************************
 Final Result:
 
 <img width="1308" alt="Screenshot 2022-05-17 at 7 02 22 PM" src="https://user-images.githubusercontent.com/98413163/169664783-5b6cc0e4-93a2-44f7-a7ac-9c6b1e27e5bc.png">
