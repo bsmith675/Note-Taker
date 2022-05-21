@@ -6,6 +6,7 @@
 Instructions:
 1. Make sure to do npm install
  -Have Homebrew and heruku 
+2. Have Express.js installed
 3. Use command npm start or node server
 **************************************
 Final Result:
